@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiraput Kongnok</h1>
-<h3 align="center">A passionate in data science and AI.</h3>
+<h3 align="center">A passionate student in data science and AI.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
